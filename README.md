@@ -46,7 +46,7 @@ This project explores SEC financial records to identify patterns in financial va
 ## 📁 Project Structure
 
 ```text
-SEC-Financial-Statements-EDA/
+SEC-Financial-Statements/
 ├── EDA/
 │   └── EDA.ipynb
 ├── Dataset/
